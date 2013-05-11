@@ -13,7 +13,7 @@ To run
 
 Output
 
-    first three number of the assembly version, e.g.  "1.0.9.1"  without the quotes
+    first three number of the assembly version, e.g.  "1.0.9"  without the quotes
 
 ## License
 
